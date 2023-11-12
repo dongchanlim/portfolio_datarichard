@@ -6,6 +6,6 @@ author: "Richard Lim"
 
 # 웹사이트 구성요소
 show_downloads: TRUE
-logo:
+logo: "assets/img/프로필.jpeg"
 theme: jekyll-theme-minimal
 
