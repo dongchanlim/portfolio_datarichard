@@ -1,11 +1,7 @@
 # 웹사이트 이름
 title: 데이터 리차드 포트폴리오
 
-# 웹사이트 주인
-author: "Richard Lim"
-
 # 웹사이트 구성요소
-show_downloads: TRUE
-logo: /assets/img/profile.jpeg
+show_downloads: true
 theme: jekyll-theme-leap-day
 
